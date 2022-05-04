@@ -1,7 +1,7 @@
 # Floyds Fork
+
 [Link to GitHub pages site](http://127.0.0.1:5500/floydsfork/lesson-map/index.html)
 Custom map of the Parklands of Floyds Fork
-____
 ![MapBox Map](lesson-map/mapbox.JPG)
 View of the Egg Lawn at The Parklands of Floyd's Fork 
 
